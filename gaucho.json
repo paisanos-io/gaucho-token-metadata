@@ -1,0 +1,30 @@
+{
+  "name": "Gaucho",
+  "symbol": "GAUCHO",
+  "description": "Souvenir token for the Gaucho robot by Paisanos. Promotional and fun - not an investment product or securities offering.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/gaucho.jpg",
+  "external_url": "https://github.com/paisanos-io",
+  "attributes": [
+    {
+      "trait_type": "Issuer",
+      "value": "Paisanos"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Souvenir"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/gaucho.jpg",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+}
