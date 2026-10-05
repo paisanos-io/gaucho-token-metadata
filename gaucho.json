@@ -1,7 +1,7 @@
 {
   "name": "Gaucho",
   "symbol": "GAUCHO",
-  "description": "Souvenir token for the Gaucho robot by Paisanos. Promotional and fun - not an investment product or securities offering.",
+  "description": "Token for the Gaucho robot by Paisanos.",
   "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/gaucho.jpg",
   "external_url": "https://github.com/paisanos-io",
   "attributes": [
