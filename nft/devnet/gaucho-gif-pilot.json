@@ -1,0 +1,26 @@
+{
+  "name": "Gaucho - GIF pilot",
+  "symbol": "GCHOD",
+  "description": "Devnet GIF test - animated GIF in animation_url (poster PNG in image).",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/gaucho-gif-pilot.png",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/gaucho-gif-pilot.gif",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    { "trait_type": "Issuer", "value": "Paisanos" },
+    { "trait_type": "Event", "value": "Devnet pilot" },
+    { "trait_type": "Media", "value": "GIF" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/gaucho-gif-pilot.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/gaucho-gif-pilot.gif",
+        "type": "image/gif"
+      }
+    ]
+  }
+}
