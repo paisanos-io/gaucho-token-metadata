@@ -1,0 +1,21 @@
+{
+  "name": "Gaucho - Mirada fulminante",
+  "symbol": "GCHOD",
+  "description": "Devnet pilot card - Gaucho robot collectible by Paisanos.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/gaucho-mirada-fulminante.png",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    { "trait_type": "Issuer", "value": "Paisanos" },
+    { "trait_type": "Event", "value": "Devnet pilot" },
+    { "trait_type": "Card", "value": "Mirada fulminante" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/gaucho-mirada-fulminante.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
