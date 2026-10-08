@@ -1,0 +1,26 @@
+{
+  "name": "Gaucho - Video pilot",
+  "symbol": "GCHOD",
+  "description": "Devnet video test - Gaucho MP4 in animation_url.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/gaucho-video-pilot.png",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/gaucho-video-pilot.mp4",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    { "trait_type": "Issuer", "value": "Paisanos" },
+    { "trait_type": "Event", "value": "Devnet pilot" },
+    { "trait_type": "Media", "value": "MP4 video" }
+  ],
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/gaucho-video-pilot.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/gaucho-video-pilot.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}
