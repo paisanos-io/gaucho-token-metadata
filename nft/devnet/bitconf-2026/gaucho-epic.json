@@ -1,0 +1,21 @@
+{
+  "name": "Gaucho Relic · Epic",
+  "symbol": "GCHB26",
+  "description": "Epic relic from the Cámara de Éter — Bitconf 2026 devnet drop.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/bitconf-2026/gaucho-epic.webp",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Epic" },
+    { "trait_type": "Event", "value": "Bitconf 2026" },
+    { "trait_type": "Issuer", "value": "Paisanos" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/devnet/bitconf-2026/gaucho-epic.webp",
+        "type": "image/webp"
+      }
+    ]
+  }
+}
