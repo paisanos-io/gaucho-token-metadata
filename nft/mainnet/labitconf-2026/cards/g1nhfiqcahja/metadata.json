@@ -1,0 +1,71 @@
+{
+  "name": "El Fluo",
+  "symbol": "GCHNS",
+  "description": "Brazos arriba en la ruta de neón, como si cada auto que pasa fuera un gol. Brilla más que la autopista y no se cansa nunca.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1nhfiqcahja/image.jpg",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1nhfiqcahja/card.mp4",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    {
+      "trait_type": "Acabado",
+      "value": "Neón"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Rojo"
+    },
+    {
+      "trait_type": "Domo",
+      "value": "Sin domo"
+    },
+    {
+      "trait_type": "Sombrero",
+      "value": "Ninguno"
+    },
+    {
+      "trait_type": "Mano",
+      "value": "Nada"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Brazos arriba"
+    },
+    {
+      "trait_type": "Fondo",
+      "value": "Pastel"
+    },
+    {
+      "trait_type": "Efecto",
+      "value": "Resplandor"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "synthwave-poster"
+    },
+    {
+      "trait_type": "Rareza",
+      "value": "Común"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Issuer",
+      "value": "Paisanos"
+    }
+  ],
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1nhfiqcahja/image.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1nhfiqcahja/card.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}

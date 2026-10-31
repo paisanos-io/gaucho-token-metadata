@@ -1,0 +1,71 @@
+{
+  "name": "Gaucho Prime",
+  "symbol": "GCHNS",
+  "description": "Ascendí a leyenda y se me subió a los circuitos. Ahora, si me dicen \"Gaucho\" me hago el sordo hasta escuchar \"Su Majestad\".",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1i3xx5ozirc/image.jpg",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1i3xx5ozirc/card.mp4",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    {
+      "trait_type": "Acabado",
+      "value": "Cromo"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Ámbar"
+    },
+    {
+      "trait_type": "Domo",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Sombrero",
+      "value": "Corona"
+    },
+    {
+      "trait_type": "Mano",
+      "value": "Nada"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Brazos arriba"
+    },
+    {
+      "trait_type": "Fondo",
+      "value": "Naranja Gaucho"
+    },
+    {
+      "trait_type": "Efecto",
+      "value": "Aura neón"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "synthwave-poster"
+    },
+    {
+      "trait_type": "Rareza",
+      "value": "Legendaria"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Issuer",
+      "value": "Paisanos"
+    }
+  ],
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1i3xx5ozirc/image.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1i3xx5ozirc/card.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}

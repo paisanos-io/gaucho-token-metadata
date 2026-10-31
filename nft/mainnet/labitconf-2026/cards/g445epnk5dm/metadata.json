@@ -1,0 +1,71 @@
+{
+  "name": "Gaucho Exodia",
+  "symbol": "GCHNS",
+  "description": "No sé como lo hice che, pero mi poder aumentó tanto que tuve que fragmentarme.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g445epnk5dm/image.jpg",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g445epnk5dm/card.mp4",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    {
+      "trait_type": "Acabado",
+      "value": "Obsidiana"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Láser"
+    },
+    {
+      "trait_type": "Domo",
+      "value": "Ahumado"
+    },
+    {
+      "trait_type": "Sombrero",
+      "value": "Ninguno"
+    },
+    {
+      "trait_type": "Mano",
+      "value": "Control remoto"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Firme"
+    },
+    {
+      "trait_type": "Fondo",
+      "value": "Pampa"
+    },
+    {
+      "trait_type": "Efecto",
+      "value": "Despiece"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "synthwave-poster"
+    },
+    {
+      "trait_type": "Rareza",
+      "value": "Rara"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Issuer",
+      "value": "Paisanos"
+    }
+  ],
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g445epnk5dm/image.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g445epnk5dm/card.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}

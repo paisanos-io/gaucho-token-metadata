@@ -1,0 +1,75 @@
+{
+  "name": "Gaucho B.L.U.3",
+  "symbol": "GCHNS",
+  "description": "Soy el mismo de siempre, che! Pero azulito.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g2biybhp4m2p/image.jpg",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g2biybhp4m2p/card.mp4",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    {
+      "trait_type": "Acabado",
+      "value": "Pintura"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Rojo"
+    },
+    {
+      "trait_type": "Domo",
+      "value": "Ahumado"
+    },
+    {
+      "trait_type": "Sombrero",
+      "value": "Ninguno"
+    },
+    {
+      "trait_type": "Mano",
+      "value": "Control remoto"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Mirada al costado"
+    },
+    {
+      "trait_type": "Fondo",
+      "value": "Naranja Gaucho"
+    },
+    {
+      "trait_type": "Efecto",
+      "value": "Ninguno"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Azul Tomy"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "synthwave-poster"
+    },
+    {
+      "trait_type": "Rareza",
+      "value": "Común"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Issuer",
+      "value": "Paisanos"
+    }
+  ],
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g2biybhp4m2p/image.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g2biybhp4m2p/card.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}

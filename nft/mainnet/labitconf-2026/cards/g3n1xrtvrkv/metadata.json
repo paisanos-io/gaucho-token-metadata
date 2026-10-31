@@ -1,0 +1,71 @@
+{
+  "name": "Gaucho Clásico",
+  "symbol": "GCHNS",
+  "description": "Me acomodo la boina, cebo unos mates y arranco el día. Si hay asado y guitarreada, ahí estaré.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g3n1xrtvrkv/image.jpg",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g3n1xrtvrkv/card.mp4",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    {
+      "trait_type": "Acabado",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Rojo"
+    },
+    {
+      "trait_type": "Domo",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Sombrero",
+      "value": "Boina"
+    },
+    {
+      "trait_type": "Mano",
+      "value": "Nada"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Firme"
+    },
+    {
+      "trait_type": "Fondo",
+      "value": "Pastel"
+    },
+    {
+      "trait_type": "Efecto",
+      "value": "Resplandor"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "synthwave-poster"
+    },
+    {
+      "trait_type": "Rareza",
+      "value": "Común"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Issuer",
+      "value": "Paisanos"
+    }
+  ],
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g3n1xrtvrkv/image.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g3n1xrtvrkv/card.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}

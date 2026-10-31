@@ -1,0 +1,71 @@
+{
+  "name": "Cromo Láser",
+  "symbol": "GCHNS",
+  "description": "Todo cromo y láser: lo que le apuntás, te lo devuelve multiplicado. En el estudio de neón no hace falta prender la luz.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/gdukt3y2kzj/image.jpg",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/gdukt3y2kzj/card.mp4",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    {
+      "trait_type": "Acabado",
+      "value": "Cromo"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Láser"
+    },
+    {
+      "trait_type": "Domo",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Sombrero",
+      "value": "Ninguno"
+    },
+    {
+      "trait_type": "Mano",
+      "value": "Control remoto"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Mirada al costado"
+    },
+    {
+      "trait_type": "Fondo",
+      "value": "Tinta"
+    },
+    {
+      "trait_type": "Efecto",
+      "value": "Resplandor"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "neon-chrome"
+    },
+    {
+      "trait_type": "Rareza",
+      "value": "Rara"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Issuer",
+      "value": "Paisanos"
+    }
+  ],
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/gdukt3y2kzj/image.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/gdukt3y2kzj/card.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}

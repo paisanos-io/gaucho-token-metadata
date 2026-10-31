@@ -1,0 +1,71 @@
+{
+  "name": "Gaucho Sunset",
+  "symbol": "GCHNS",
+  "description": "Mirá lo fachero que estoy con este atardecer. Y esas luces, una locura. Sacame una foto que esta va de perfil.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g25d0h7ybfeo/image.jpg",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g25d0h7ybfeo/card.mp4",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    {
+      "trait_type": "Acabado",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Rojo"
+    },
+    {
+      "trait_type": "Domo",
+      "value": "Transparente"
+    },
+    {
+      "trait_type": "Sombrero",
+      "value": "Ninguno"
+    },
+    {
+      "trait_type": "Mano",
+      "value": "Control remoto"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Firme"
+    },
+    {
+      "trait_type": "Fondo",
+      "value": "Papel"
+    },
+    {
+      "trait_type": "Efecto",
+      "value": "Resplandor"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "synthwave-poster"
+    },
+    {
+      "trait_type": "Rareza",
+      "value": "Común"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Issuer",
+      "value": "Paisanos"
+    }
+  ],
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g25d0h7ybfeo/image.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g25d0h7ybfeo/card.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}

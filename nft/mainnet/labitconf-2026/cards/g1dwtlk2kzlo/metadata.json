@@ -1,0 +1,71 @@
+{
+  "name": "Holograma Matero",
+  "symbol": "GCHNS",
+  "description": "Holograma Matero volvió de 1984 a un póster ochentoso, con ojos de arcoíris. Dicen que hay uno solo.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1dwtlk2kzlo/image.jpg",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1dwtlk2kzlo/card.mp4",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    {
+      "trait_type": "Acabado",
+      "value": "Holográfico"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Arcoíris"
+    },
+    {
+      "trait_type": "Domo",
+      "value": "Transparente"
+    },
+    {
+      "trait_type": "Sombrero",
+      "value": "Corona"
+    },
+    {
+      "trait_type": "Mano",
+      "value": "Mate"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Firme"
+    },
+    {
+      "trait_type": "Fondo",
+      "value": "Noche"
+    },
+    {
+      "trait_type": "Efecto",
+      "value": "Aura neón"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "synthwave-poster"
+    },
+    {
+      "trait_type": "Rareza",
+      "value": "Épica"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Issuer",
+      "value": "Paisanos"
+    }
+  ],
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1dwtlk2kzlo/image.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1dwtlk2kzlo/card.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}

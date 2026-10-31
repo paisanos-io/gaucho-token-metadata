@@ -1,0 +1,75 @@
+{
+  "name": "Hincha Campeón",
+  "symbol": "GCHNS",
+  "description": "Bandera en alto bajo la lluvia de neón y camiseta a rayas de punta a punta. Desde el '22 no la baja, ni para cargar batería.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/gbbgl7lptyq/image.jpg",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/gbbgl7lptyq/card.mp4",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    {
+      "trait_type": "Acabado",
+      "value": "Camuflaje"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Rojo"
+    },
+    {
+      "trait_type": "Domo",
+      "value": "Sin domo"
+    },
+    {
+      "trait_type": "Sombrero",
+      "value": "Boina"
+    },
+    {
+      "trait_type": "Mano",
+      "value": "Nada"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Mirada al costado"
+    },
+    {
+      "trait_type": "Fondo",
+      "value": "Pampa"
+    },
+    {
+      "trait_type": "Efecto",
+      "value": "Ninguno"
+    },
+    {
+      "trait_type": "Selección",
+      "value": "Bandera"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "rain-street"
+    },
+    {
+      "trait_type": "Rareza",
+      "value": "Rara"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Issuer",
+      "value": "Paisanos"
+    }
+  ],
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/gbbgl7lptyq/image.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/gbbgl7lptyq/card.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}

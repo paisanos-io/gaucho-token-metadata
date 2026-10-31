@@ -1,0 +1,71 @@
+{
+  "name": "Capo Tubo",
+  "symbol": "GCHNS",
+  "description": "En la cuadra del kiosco le dicen Capo Tubo: con los ojos violeta prendidos. Pocos lo vieron en persona.",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g2flsmodrx67/image.jpg",
+  "animation_url": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g2flsmodrx67/card.mp4",
+  "external_url": "https://github.com/paisanos-io/gaucho-token",
+  "attributes": [
+    {
+      "trait_type": "Acabado",
+      "value": "Neón"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Violeta"
+    },
+    {
+      "trait_type": "Domo",
+      "value": "Transparente"
+    },
+    {
+      "trait_type": "Sombrero",
+      "value": "Sombrero gaucho"
+    },
+    {
+      "trait_type": "Mano",
+      "value": "Nada"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Saludo"
+    },
+    {
+      "trait_type": "Fondo",
+      "value": "Noche"
+    },
+    {
+      "trait_type": "Efecto",
+      "value": "Aura neón"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "rain-street"
+    },
+    {
+      "trait_type": "Rareza",
+      "value": "Común"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Issuer",
+      "value": "Paisanos"
+    }
+  ],
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g2flsmodrx67/image.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g2flsmodrx67/card.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}
