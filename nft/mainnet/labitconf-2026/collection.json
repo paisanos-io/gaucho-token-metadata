@@ -2,7 +2,7 @@
   "name": "LABITCONF 2026",
   "symbol": "GCHNS",
   "description": "Gaucho holo trading cards from the Neon Street. Issued by Paisanos.",
-  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1nhfiqcahja/image.jpg",
+  "image": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/collection-cover.png",
   "external_url": "https://github.com/paisanos-io/gaucho-token",
   "attributes": [
     {
@@ -10,16 +10,16 @@
       "value": "Paisanos"
     },
     {
-      "trait_type": "Network",
-      "value": "Solana Mainnet"
+      "trait_type": "Drop",
+      "value": "LABITCONF 2026"
     }
   ],
   "properties": {
     "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/cards/g1nhfiqcahja/image.jpg",
-        "type": "image/jpeg"
+        "uri": "https://raw.githubusercontent.com/paisanos-io/gaucho-token-metadata/main/nft/mainnet/labitconf-2026/collection-cover.png",
+        "type": "image/png"
       }
     ]
   }
